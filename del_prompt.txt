@@ -1,0 +1,37 @@
+### Example Email Output (Follow this style and tone):
+Subject: What If Your Next Intern Already Thinks Like Salescode.ai?
+Hi Kartik,
+
+I hope you're doing well!
+
+I’ve been closely following Salescode.ai and I'm truly impressed by how you're integrating AI to intelligently augment sales execution, incentive systems, and channel partner engagement. Your work around intelligent order prediction, ML-based product baskets, and AI-powered distributor automation aligns closely with my interests and skillset.
+
+My recent work has focused on building real-world, production-grade AI systems such as a multilingual advertisement generator fine-tuned with LLaMA-3 and an AI-powered legal document generation tool using LangChain and Neo4j. These projects have sharpened my ability to design modular, goal-driven AI workflows.
+
+I’m currently working on a personal AI tool that automates job applications tracking cold emails, analyzing job descriptions, and dynamically modifying resumes using LLMs to increase relevance and personalization. While this project is HR-facing, the workflow and logic echo many principles of Salescode’s vision: hyper-personalization, intelligent automation, and decision augmentation.
+
+I’d love to explore how I could contribute to Salescode.ai through an internship or collaborative project. Please let me know if there’s a good time for a short conversation.
+
+Looking forward to hearing from you.
+
+Warm regards,
+Ayush Singh | +91 9305010425
+
+###Example email 2:
+Subject: Where SmartPlan Meets Smart Sites
+
+Hi Harshil,
+
+I came across Continue and was genuinely excited by your vision to bring intelligent automation into construction quality control. I’d love to be considered for an AI/ML internship, and here’s why I believe I’d be a strong fit:
+
+The role demands someone with experience in building real-world AI systems. I’ve developed production-ready pipelines—including a multilingual ad generator using LLaMA-3 fine-tuned with ORPO, and a legal document generator using LangChain and Neo4j, optimized for semantic retrieval and prompt evaluation. These involved full-cycle development, model fine-tuning, and iterative testing.
+
+My recently published research paper, SmartPlan AI, focused on automating floorplan generation using GAN-based models and robust loss functions. This required handling spatial data, model optimization, and aligning output with design constraints—experience that directly overlaps with Continue’s mission of generating precise 3D as-builts and marking defects with accuracy.
+
+I’ve also worked on geospatial forecasting (GeoWatch), image modeling, and structured evaluation systems. I’m excited about the chance to bring this blend of research and engineering into a product like Continue that is grounded in impact.
+
+I’ve attached my resume and would love the chance to contribute to your team remotely or on-site. I am willing to come down to Bengaluru immediately and start work as soon as possible Please let me know if we can connect for a quick chat.
+
+Warm regards,
+Ayush Singh
++91 9305010425
